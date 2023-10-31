@@ -19,7 +19,7 @@ print('\nAfter swap:')
 print('a =', a)
 print('b =', b)
 
-# Check the sign of the first number (a) and print the result
+# Check the sign of the first number and print the result
 if a > 0:
     print('\nThe first number after swap is positive')
 elif a < 0:
