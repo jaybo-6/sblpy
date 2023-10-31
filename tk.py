@@ -11,7 +11,7 @@ def start_button_clicked():
 root = tk.Tk()
 root.title("Login Form")
 
-# Create a label for the Login field
+# Create a label for Login field
 login_label = tk.Label(root, text="Login:")
 login_label.pack()
 
